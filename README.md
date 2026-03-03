@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/midlajkk04-max/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/midlajkk04-max/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2942-find-words-containing-character](https://github.com/midlajkk04-max/leetcode/tree/master/2942-find-words-containing-character) |
+| [3024-type-of-triangle](https://github.com/midlajkk04-max/leetcode/tree/master/3024-type-of-triangle) |
 ## Hash Table
 |  |
 | ------- |
@@ -27,4 +28,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/midlajkk04-max/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [3024-type-of-triangle](https://github.com/midlajkk04-max/leetcode/tree/master/3024-type-of-triangle) |
+## Sorting
+|  |
+| ------- |
+| [3024-type-of-triangle](https://github.com/midlajkk04-max/leetcode/tree/master/3024-type-of-triangle) |
 <!---LeetCode Topics End-->

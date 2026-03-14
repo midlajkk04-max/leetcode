@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/midlajkk04-max/leetcode/tree/master/0070-climbing-stairs) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/midlajkk04-max/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/midlajkk04-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/midlajkk04-max/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/midlajkk04-max/leetcode/tree/master/0020-valid-parentheses) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/midlajkk04-max/leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/midlajkk04-max/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->

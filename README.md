@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/midlajkk04-max/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/midlajkk04-max/leetcode/tree/master/0169-majority-element) |
+| [1436-destination-city](https://github.com/midlajkk04-max/leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/midlajkk04-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/midlajkk04-max/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/midlajkk04-max/leetcode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/midlajkk04-max/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/midlajkk04-max/leetcode/tree/master/0169-majority-element) |
+| [1436-destination-city](https://github.com/midlajkk04-max/leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/midlajkk04-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/midlajkk04-max/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 ## Two Pointers
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/midlajkk04-max/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/midlajkk04-max/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [1436-destination-city](https://github.com/midlajkk04-max/leetcode/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/midlajkk04-max/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/midlajkk04-max/leetcode/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/midlajkk04-max/leetcode/tree/master/2108-find-first-palindromic-string-in-the-array) |

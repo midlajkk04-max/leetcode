@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/midlajkk04-max/leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/midlajkk04-max/leetcode/tree/master/0190-reverse-bits) |
 ## Stack
 |  |
 | ------- |
@@ -106,4 +107,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/midlajkk04-max/leetcode/tree/master/0292-nim-game) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0190-reverse-bits](https://github.com/midlajkk04-max/leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->

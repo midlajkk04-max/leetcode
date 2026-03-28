@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/midlajkk04-max/leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/midlajkk04-max/leetcode/tree/master/0258-add-digits) |
 | [0292-nim-game](https://github.com/midlajkk04-max/leetcode/tree/master/0292-nim-game) |
+| [0441-arranging-coins](https://github.com/midlajkk04-max/leetcode/tree/master/0441-arranging-coins) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/midlajkk04-max/leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1512-number-of-good-pairs](https://github.com/midlajkk04-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/midlajkk04-max/leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/midlajkk04-max/leetcode/tree/master/0258-add-digits) |
+## Binary Search
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/midlajkk04-max/leetcode/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->

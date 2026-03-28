@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/midlajkk04-max/leetcode/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/midlajkk04-max/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/midlajkk04-max/leetcode/tree/master/0202-happy-number) |
+| [0409-longest-palindrome](https://github.com/midlajkk04-max/leetcode/tree/master/0409-longest-palindrome) |
 | [1436-destination-city](https://github.com/midlajkk04-max/leetcode/tree/master/1436-destination-city) |
 | [1512-number-of-good-pairs](https://github.com/midlajkk04-max/leetcode/tree/master/1512-number-of-good-pairs) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/midlajkk04-max/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/midlajkk04-max/leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/midlajkk04-max/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/midlajkk04-max/leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0409-longest-palindrome](https://github.com/midlajkk04-max/leetcode/tree/master/0409-longest-palindrome) |
 | [1021-remove-outermost-parentheses](https://github.com/midlajkk04-max/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1436-destination-city](https://github.com/midlajkk04-max/leetcode/tree/master/1436-destination-city) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/midlajkk04-max/leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0441-arranging-coins](https://github.com/midlajkk04-max/leetcode/tree/master/0441-arranging-coins) |
+## Greedy
+|  |
+| ------- |
+| [0409-longest-palindrome](https://github.com/midlajkk04-max/leetcode/tree/master/0409-longest-palindrome) |
 <!---LeetCode Topics End-->
